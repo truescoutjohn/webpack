@@ -11,5 +11,5 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/tools/lesson6/task1/background.jpg');
+  background: url('./img/background.jpg');
 }
